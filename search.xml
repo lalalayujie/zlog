@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>md文件格式</title>
+    <url>/2023/07/24/md%E6%96%87%E4%BB%B6/</url>
+    <content><![CDATA[<p>欢迎来到小钟的<a href="http://localhost:4000/">个人博客</a>!</p>
+<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ 代码块</span><br></pre></td></tr></table></figure>
+
+<p>更多资料请查看 <a href="http://localhost:4000/">语雀</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>ChatGPT概论</title>
     <url>/2023/07/24/ChatGPT%E5%8E%9F%E7%90%86/</url>
     <content><![CDATA[<h2 id="ChatGPT概念"><a href="#ChatGPT概念" class="headerlink" title="ChatGPT概念"></a>ChatGPT概念</h2><p>ChatGPT（Chat Generative Pre-training Transformer） 是一个 AI 模型，属于<strong>自然语言处理（</strong> <strong>Natural Language Processing</strong> <strong>，</strong> <strong>NLP</strong> <strong>）</strong> 领域。</p>
@@ -26,15 +35,6 @@
       <tags>
         <tag>ChatGPT</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>md文件格式</title>
-    <url>/2023/07/24/md%E6%96%87%E4%BB%B6/</url>
-    <content><![CDATA[<p>欢迎来到小钟的<a href="http://localhost:4000/">个人博客</a>!</p>
-<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ 代码块</span><br></pre></td></tr></table></figure>
-
-<p>更多资料请查看 <a href="http://localhost:4000/">语雀</a></p>
-]]></content>
   </entry>
   <entry>
     <title>业务学习</title>
